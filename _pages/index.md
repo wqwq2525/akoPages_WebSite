@@ -12,7 +12,7 @@ permalink: /
 ## コーギー
 
 
-
+![image](/GHPages_WebSite/assets/images/dog-type_00.jpg)
 
 ---
 
