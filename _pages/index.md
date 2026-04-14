@@ -6,13 +6,14 @@ permalink: /
 
 # 飼いたい犬紹介
 ## チワワ
+![image](/GHPages_WebSite/assets/images/1346.jpg)
 ## サモエド
 ## 柴犬
 ## ポメ柴
 ## コーギー
 
 
-![image](/GHPages_WebSite/assets/images/dog-type_00.jpg)
+
 
 ---
 
