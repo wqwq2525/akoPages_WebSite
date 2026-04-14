@@ -12,7 +12,7 @@ permalink: /
 ## 柴犬
 ![image](/akoPages_WebSite/assets/images/2.jpg)
 ## ポメ柴
-![image](/akoPages_WebSite/assets/images/3.jpg)
+![image](/akoPages_WebSite/assets/images/3.webp)
 ## コーギー
 ![image](/akoPages_WebSite/assets/images/4.jpg)
 
