@@ -17,7 +17,6 @@ permalink: /
 ![image](/akoPages_WebSite/assets/images/4.jpg)
 
 
-
 ---
 
 以下テンプレート
