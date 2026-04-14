@@ -8,7 +8,7 @@ permalink: /
 ## チワワ
 ![image](/akoPages_WebSite/assets/images/1346.jpg)
 ## サモエド
-
+![image](/akoPages_WebSite/assets/images/1346.jpg)
 ## 柴犬
 ## ポメ柴
 ## コーギー
